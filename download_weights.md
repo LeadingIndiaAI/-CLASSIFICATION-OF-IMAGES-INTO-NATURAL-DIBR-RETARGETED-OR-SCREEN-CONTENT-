@@ -1,0 +1,4 @@
+# team27
+CLASSIFICATION OF IMAGES INTO NATURAL, DIBR, RETARGETED OR SCREEN-CONTENT
+
+Download model from : https://drive.google.com/open?id=1X2kTHB4TAM5w_jr4TshzDHmZK0QffC0H

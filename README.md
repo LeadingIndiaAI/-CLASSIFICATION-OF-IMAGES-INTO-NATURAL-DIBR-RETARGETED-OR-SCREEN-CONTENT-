@@ -1,2 +1,6 @@
-# -CLASSIFICATION-OF-IMAGES-INTO-NATURAL-DIBR-RETARGETED-OR-SCREEN-CONTENT-
-The project deals with Image Classification. Image classification is an important topic in computer vision systems and has drawn a significant amount of interest over the last decade. This field aims to classify an input image based on visual content. The main objective of this project is to make a deep learning model for categorisation of images into DIBR, Natural, Retargeted or Screenshot, so that user can check to which category a test image belongs to and to improve the accuracy value or the prediction score of classifying the test image into one of these four categories. In this project, 3 different choices of models (building from scratch, VGG16, InceptionV3) were tested. Building own network from scratch did not yield great results when compared to the other two because the dataset was not extensive enough to train the model with good accuracy from scratch. Best results were obtained on InceptionV3 model followed by VGG16. Top performing model achieved an accuracy of 98.3 %. The reason why team could arrive at such great results is probably the similarity between the ImageNet dataset and our prediction classes.
+# team27
+CLASSIFICATION OF IMAGES INTO NATURAL, DIBR, RETARGETED OR SCREEN-CONTENT
+
+Download the weights file to load the model to run the validate_test.py to generate prediction scores.
+
+Youtube Link : https://www.youtube.com/watch?v=4qdO0-eHiNo
